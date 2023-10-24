@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Gestion de contenu</title>
+    <link href="https://kethsanamuong.github.io/gestiondecontenu/feed.xml" rel="self" />
+    <link href="https://kethsanamuong.github.io/gestiondecontenu" />
+    <updated>2023-10-24T15:57:37+02:00</updated>
+    <author>
+        <name>Kethsana Muong</name>
+    </author>
+    <id>https://kethsanamuong.github.io/gestiondecontenu</id>
+
+    <entry>
+        <title>Donjons et dragons : les bases</title>
+        <author>
+            <name>Kethsana Muong</name>
+        </author>
+        <link href="https://kethsanamuong.github.io/gestiondecontenu/donjons-et-dragons-les-bases.html"/>
+        <id>https://kethsanamuong.github.io/gestiondecontenu/donjons-et-dragons-les-bases.html</id>
+
+        <updated>2023-10-24T15:57:37+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Bienvenue dans ce guide sur Donjons et dragons ! Donjons et dragons est ce que l'on appelle un jeu de rôle sur table (tabletop role-playing game ou TTRPG) ou jeu de rôle papier (d'après pen-and-paper role-playing game). Dans Dungeons &amp; Dragons, les joueurs forment un&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/PHB-Tyler-Jacobson.jpg" alt="Couverture du Manuel des Joueurs 5e éd., par Tyler Jacobson" width="1500" height="1050" sizes="100vw" srcset="https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-xs.jpg 300w ,https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-sm.jpg 480w ,https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-md.jpg 768w ,https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-lg.jpg 1024w ,https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-xl.jpg 1360w ,https://kethsanamuong.github.io/gestiondecontenu/media/posts/1/responsive/PHB-Tyler-Jacobson-2xl.jpg 1600w"></figure>
+<p>Bienvenue dans ce guide sur <em>Donjons et dragons</em> !</p>
+<p>Donjons <em>et dragons</em> est ce que l'on appelle un<strong> jeu de rôle sur table</strong> (<i><span class="lang-en" lang="en">tabletop role-playing game </span></i><span class="lang-en" lang="en">ou</span><i><span class="lang-en" lang="en"> TTRPG</span></i>) ou <strong>jeu de rôle papier</strong> (d'après <i><span class="lang-en" lang="en">pen-and-paper role-playing game</span></i>).</p>
+<p>Dans <em>Dungeons &amp; Dragons</em>, les joueurs forment un groupe d’aventuriers qui explorent ensemble des mondes fantastiques où ils mènent des quêtes épiques en accumulant des niveaux d’expérience. Le maître du donjon (MD) ou maître du jeu (MJ) est à la fois l’arbitre du jeu et le conteur du récit. Il n’y a ni perdants ni gagnants à <em>D&amp;D</em>, du moins pas au sens traditionnel du terme.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
